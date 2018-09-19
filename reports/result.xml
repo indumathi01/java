@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="1" failures="0" hostname="zippyops1" name="RectangleTest" skipped="0" tests="1" time="0.963" timestamp="2018-09-19T07:00:30">
+<testsuite errors="1" failures="0" hostname="zippyops1" name="RectangleTest" skipped="0" tests="1" time="1.257" timestamp="2018-09-19T09:23:24">
   <properties>
     <property name="java.vendor" value="Oracle Corporation" />
-    <property name="env.SESSION_MANAGER" value="local/unix:@/tmp/.ICE-unix/3510,unix/unix:/tmp/.ICE-unix/3510" />
+    <property name="env.SESSION_MANAGER" value="local/unix:@/tmp/.ICE-unix/2555,unix/unix:/tmp/.ICE-unix/2555" />
     <property name="env.LESSOPEN" value="||/usr/bin/lesspipe.sh %s" />
     <property name="sun.java.launcher" value="SUN_STANDARD" />
     <property name="env.QT_IM_MODULE" value="xim" />
@@ -30,7 +30,7 @@
     <property name="env.XDG_DATA_DIRS" value="/home/zippyops/.local/share/flatpak/exports/share/:/var/lib/flatpak/exports/share/:/usr/local/share/:/usr/share/" />
     <property name="env.GJS_DEBUG_OUTPUT" value="stderr" />
     <property name="build.dir" value="/home/zippyops/zippyjen/java/bin" />
-    <property name="env.PATH" value="/usr/local/src/apache-maven/bin:/usr/local/src/apache-maven/bin:/usr/local/src/apache-maven/bin:/usr/local/src/apache-maven/bin:/usr/local/src/apache-maven/bin:/usr/local/src/apache-maven/bin:/usr/local/src/apache-maven/bin:/usr/local/src/apache-maven/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/bin:/sbin:/opt/jdk1.8.0_171/bin:/opt/jdk1.8.0_181/jre/bin:/home/zippyops/.local/bin:/home/zippyops/bin:/opt/jdk1.8.0_171/bin:/opt/jdk1.8.0_181/jre/bin:/opt/jdk1.8.0_171/bin:/opt/jdk1.8.0_181/jre/bin:/opt/jdk1.8.0_171/bin:/opt/jdk1.8.0_181/jre/bin:/opt/jdk1.8.0_171/bin:/opt/jdk1.8.0_181/jre/bin:/opt/jdk1.8.0_171/bin:/opt/jdk1.8.0_181/jre/bin:/opt/jdk1.8.0_171/bin:/opt/jdk1.8.0_181/jre/bin:/opt/jdk1.8.0_171/bin:/opt/jdk1.8.0_181/jre/bin" />
+    <property name="env.PATH" value="/usr/local/src/apache-maven/bin:/usr/local/src/apache-maven/bin:/usr/local/src/apache-maven/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/bin:/sbin:/opt/jdk1.8.0_171/bin:/opt/jdk1.8.0_181/jre/bin:/home/zippyops/.local/bin:/home/zippyops/bin:/opt/jdk1.8.0_171/bin:/opt/jdk1.8.0_181/jre/bin:/opt/jdk1.8.0_171/bin:/opt/jdk1.8.0_181/jre/bin" />
     <property name="env.XDG_CURRENT_DESKTOP" value="GNOME-Classic:GNOME" />
     <property name="user.language" value="en" />
     <property name="env.XDG_SESSION_DESKTOP" value="gnome-classic" />
@@ -40,9 +40,9 @@
     <property name="ant.project.name" value="Rectangle-Test" />
     <property name="java.version" value="1.8.0_181" />
     <property name="user.timezone" value="" />
-    <property name="env.DBUS_SESSION_BUS_ADDRESS" value="unix:abstract=/tmp/dbus-lnMpz5hwzx,guid=e126af3a8389f572d3fbe1265ba1e382" />
+    <property name="env.DBUS_SESSION_BUS_ADDRESS" value="unix:abstract=/tmp/dbus-NC68YsYHB9,guid=bd97600011fd8f105d87a0d75ba20ac5" />
     <property name="sun.arch.data.model" value="64" />
-    <property name="env.SSH_AGENT_PID" value="3717" />
+    <property name="env.SSH_AGENT_PID" value="2749" />
     <property name="java.endorsed.dirs" value="/opt/jdk1.8.0_181/jre/lib/endorsed" />
     <property name="sun.cpu.isalist" value="" />
     <property name="sun.jnu.encoding" value="UTF-8" />
@@ -88,9 +88,9 @@
     <property name="env.XDG_SEAT" value="seat0" />
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
     <property name="ant.version" value="Apache Ant(TM) version 1.10.0 compiled on December 27 2016" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner RectangleTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/home/zippyops/zippyjen/java/reports/result.xml crashfile=/home/zippyops/zippyjen/java/junitvmwatcher7646394501447236663.properties propsfile=/home/zippyops/zippyjen/java/junit4789764380450730806.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner RectangleTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/home/zippyops/zippyjen/java/reports/result.xml crashfile=/home/zippyops/zippyjen/java/junitvmwatcher3485154718524054942.properties propsfile=/home/zippyops/zippyjen/java/junit4494601531931695579.properties" />
     <property name="java.class.path" value="/home/zippyops/zippyjen/java/lib/junit-4.12.jar:/home/zippyops/zippyjen/java/bin:/home/zippyops/zippyjen/java:/opt/apache-ant-1.10.0/lib/ant-launcher.jar:/opt/ant/lib/ant.jar:/opt/ant/lib/ant-junit.jar:/opt/ant/lib/ant-junit4.jar" />
-    <property name="env.XDG_SESSION_ID" value="2" />
+    <property name="env.XDG_SESSION_ID" value="1" />
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
     <property name="ant.file.type" value="file" />
     <property name="java.vm.specification.version" value="1.8" />
@@ -107,7 +107,7 @@
     <property name="env.XDG_RUNTIME_DIR" value="/run/user/1000" />
     <property name="java.ext.dirs" value="/opt/jdk1.8.0_181/jre/lib/ext:/usr/java/packages/lib/ext" />
     <property name="user.dir" value="/home/zippyops/zippyjen/java" />
-    <property name="env.XAUTHORITY" value="/root/.xauth0Xw1Oh" />
+    <property name="env.XAUTHORITY" value="/root/.xauthdyFz6w" />
     <property name="line.separator" value="&#xa;" />
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
     <property name="env.COLORTERM" value="truecolor" />
@@ -122,7 +122,7 @@
     <property name="src.dir" value="/home/zippyops/zippyjen/java/src" />
     <property name="ant.project.invoked-targets" value="main" />
   </properties>
-  <testcase classname="RectangleTest" name="initializationError" time="0.011">
+  <testcase classname="RectangleTest" name="initializationError" time="0.012">
     <error message="org/hamcrest/SelfDescribing" type="java.lang.NoClassDefFoundError">java.lang.NoClassDefFoundError: org/hamcrest/SelfDescribing
 	at java.lang.ClassLoader.defineClass1(Native Method)
 	at java.lang.ClassLoader.defineClass(ClassLoader.java:763)
