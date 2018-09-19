@@ -21,7 +21,7 @@ pipeline  {
   stage("Running on centos") {
     steps {
 
-        sh "wget http://jenkins.masterzippyops.com/rectangles/all/rectangle_${env.BUILD_NUMBER}.jar"
+        sh "wget http://zippyops1/rectangles/all/rectangle_${env.BUILD_NUMBER}.jar"
         sh "java -jar rectangle_${env.BUILD_NUMBER}.jar 3 4"
      }
    }
